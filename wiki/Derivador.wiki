@@ -1,0 +1,18 @@
+#summary Como está diseñado el derivado (Guía del programador)
+#labels Phase-Design
+= Introduction =
+
+*Derivador (Guía del programador)*
+
+El objetivo es construir un programa que dada una función matemática, halle la derivada de esta y la pueda evaluar para ciertos valores numéricos.
+
+Definimos una interfaz "Funcion" con los métodos para derivar y evaluar, todas los operadores que constituyen la función son clases que implementan esta interfaz definiendo todo lo que puede tener una función.
+
+Se modeló como un árbol cuyos nodos hoja son las variables y los números y el resto de nodos son operadores.
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
