@@ -18,9 +18,10 @@ Here is when we use the interfaces, in which we declare the particular things th
 To understand better the idea, I strongly recommend to download the source code and check the example of the puzzle. See what part of the source code is made in what project. To even understand better, you can solve another problem in "AppsBusqueda" that uses the library. You can notice that you don't need to rewrite the Breadth First Search algorithm.
 
 
+------------------------------------------------------------------------------------------
 
 
-Una pequeña explicación en Español de qué son estos dos proyectos
+#Una breve explicación en Español de qué son estos dos proyectos
 
 
 = Introducción = 
