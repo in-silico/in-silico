@@ -13,6 +13,6 @@ For example, as we are talking of search, we have divided the project in deep fi
 
 As we said in the introduction, we was going to make the code in the library as general as possible. But of course, there are some things that depends of the problem to be solved. For example in all searches we need to know what are the children of a given node so we can build the tree. So what do we need in order to mix the general with the particular things?
 
-Here is when we use the interfaces, in the interfaces we declare the particular things that we are going to need to solve any problem. In these way we are sure that the object that inherits that interface will have that characteristics and we can safely make our algorithm without thinking in particular problems.
+Here is when we use the interfaces, in the interfaces we declare the particular things that we are going to need to solve any problem. In these way we are sure that the object that inherits that interface will have those characteristics and we can safely make our algorithm without thinking in particular problems.
 
 To understand better the idea, I strongly recommend to download the source code and check the example of the puzzle. See what part of the source code is made in what project. To even understand better you can make another sample in AppsBusqueda that uses the library and notice that you don't need to rewrite the Breadth first search algorithm.
