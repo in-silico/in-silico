@@ -8,10 +8,10 @@ As we talk, is really important to make a good project design to achieve our obj
 
 = Details =
 
-Our library is "Busqueda", the code is spread in some logical units according to what it does, in Java that units are named Packages.
-For example, as we are talking of search, we have divided the project in deep first search and Breadth first search.
+Our library is "Busqueda", the code is spread in some logical units according to what it does. In Java, that units are named Packages.
+For example, as we are talking of search, we have divided the project in Deep First Search and Breadth First Search.
 
-As we said in the introduction, we was going to make the code in the library as general as possible. But of course, there are some things that depends of the problem to be solved. For example in all searches we need to know what are the children of a given node so we can build the tree. So what do we need in order to mix the general with the particular things?
+As we said in the introduction, we were going to make the code in the library as general as possible. But of course, there are some things that depends of the problem to be solved. For example, in all searches we need to know what are the children of a given node so we can build the tree. So what do we need in order to mix the general with the particular things?
 
 Here is when we use the interfaces, in the interfaces we declare the particular things that we are going to need to solve any problem. In these way we are sure that the object that inherits that interface will have those characteristics and we can safely make our algorithm without thinking in particular problems.
 
