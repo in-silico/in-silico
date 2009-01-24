@@ -19,7 +19,7 @@ To understand better the idea, We strongly recommend to download the source code
 
 
 
-#summary Breve explicación en Español de qué son estos dos proyectos
+#Resumen Breve explicación en Español de qué son estos dos proyectos
 
 
 
