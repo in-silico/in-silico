@@ -15,7 +15,7 @@ As we said in the introduction, we were going to make the code in the library as
 
 Here is when we use the interfaces, in which we declare the particular things that we are going to need to solve any problem. In these way, we are sure that the object that implements that interface will have those characteristics and we can safely make our algorithm without thinking in particular problems.
 
-To understand better the idea, I strongly recommend to download the source code and check the example of the puzzle. See what part of the source code is made in what project. To even understand better, you can solve another problem in "AppsBusqueda" that uses the library. You can notice that you don't need to rewrite the Breadth First Search algorithm.
+To understand better the idea, We strongly recommend to download the source code and check the example of the puzzle. See what part of the source code is made in what project. To even understand better, you can solve another problem in "AppsBusqueda" that uses the library. You can notice that you don't need to rewrite the Breadth First Search algorithm.
 
 
 
@@ -36,4 +36,4 @@ Como dijimos en la introducción, vamos a hacer el código en la librería tan g
 
 Aquí es cuando usamos las interfaces, en las cuales declaramos las cosas particulares que vamos a necesitar para solucionar algún problema. En este sentido, estamos seguros que el objeto que implementa la interface tendrá esas características y podremos hacer nuestro algoritmo sin pensar en casos particulares.
 
-Para entender mejor la idea, recomiendo encarecidamente descargar el código fuente y comprobar el ejemplo del puzzle. Observar en qué parte del proyecto está el código fuente. Para entender aún mejor, puede solucionar otro problema en "AppsBusqueda" el cual usa la librería antes expuesta. Podrá darse cuenta que no necesita reescribir el algoritmo de Búsqueda Primero en Anchura.
+Para entender mejor la idea, recomendamos encarecidamente descargar el código fuente y comprobar el ejemplo del puzzle. Observar en qué parte del proyecto está el código fuente. Para entender aún mejor, puede solucionar otro problema en "AppsBusqueda" el cual usa la librería antes expuesta. Podrá darse cuenta que no necesita reescribir el algoritmo de Búsqueda Primero en Anchura.
