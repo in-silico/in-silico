@@ -8,7 +8,7 @@ As we talk, is really important to make a good project design to achieve our obj
 
 = Details =
 
-Out library is "Busqueda", the code is spread in some logical units according to what it does, in Java that units are named Packages.
+Our library is "Busqueda", the code is spread in some logical units according to what it does, in Java that units are named Packages.
 For example, as we are talking of search, we have divided the project in deep first search and Breadth first search.
 
 As we said in the introduction, we was going to make the code in the library as general as possible. But of course, there are some things that depends of the problem to be solved. For example in all searches we need to know what are the children of a given node so we can build the tree. So what do we need in order to mix the general with the particular things?
